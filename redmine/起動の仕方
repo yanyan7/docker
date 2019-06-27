@@ -1,0 +1,2 @@
+redmineディレクトリで、以下のコマンドを実行
+    docker-compose up -d 
